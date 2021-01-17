@@ -1,5 +1,5 @@
 # SquirrelFileParser Standalone v0.1
-Parser for .txt and .csv like files for the Squirrel language
+Read only parser for .txt and .csv like files for the Squirrel language. With various functions to access and extract data.
 
 This is an extraction of one of my scripts from https://github.com/Daraan/Dark-Squirrel-Scripts which works as standalone for the Squirrel language.
 
